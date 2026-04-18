@@ -1,0 +1,52 @@
+{
+  "produk": [
+    {
+      "id": 1,
+      "nama": "RiceBOL Ayam Geprek",
+      "kategori": "ricebol",
+      "harga": 18000,
+      "foto": "https://via.placeholder.com/300x200?text=RiceBOL+Ayam+Geprek",
+      "deskripsi": "Nasi + Ayam geprek sambal bawang + lalapan"
+    },
+    {
+      "id": 2,
+      "nama": "RiceBOL Ayam Bakar",
+      "kategori": "ricebol",
+      "harga": 20000,
+      "foto": "https://via.placeholder.com/300x200?text=RiceBOL+Ayam+Bakar",
+      "deskripsi": "Nasi + Ayam bakar madu + sambal terasi"
+    },
+    {
+      "id": 3,
+      "nama": "RiceBOL Lele Crispy",
+      "kategori": "ricebol",
+      "harga": 15000,
+      "foto": "https://via.placeholder.com/300x200?text=RiceBOL+Lele+Crispy",
+      "deskripsi": "Nasi + Lele goreng crispy + sambal matah"
+    },
+    {
+      "id": 4,
+      "nama": "Es Teh Manis",
+      "kategori": "minuman",
+      "harga": 5000,
+      "foto": "https://via.placeholder.com/300x200?text=Es+Teh+Manis",
+      "deskripsi": "Teh manis dingin segar"
+    },
+    {
+      "id": 5,
+      "nama": "Es Jeruk Peras",
+      "kategori": "minuman",
+      "harga": 8000,
+      "foto": "https://via.placeholder.com/300x200?text=Es+Jeruk+Peras",
+      "deskripsi": "Jeruk peras asli tanpa pengawet"
+    },
+    {
+      "id": 6,
+      "nama": "Es Kopi Susu",
+      "kategori": "minuman",
+      "harga": 10000,
+      "foto": "https://via.placeholder.com/300x200?text=Es+Kopi+Susu",
+      "deskripsi": "Kopi robusta + susu segar"
+    }
+  ]
+}
