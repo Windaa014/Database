@@ -2,7 +2,7 @@
   "produk": [
     {
       "id": 1,
-      "nama": "RiceBOL Ayam Geprek",
+      "nama": "RiceBowl Ayam Geprek",
       "kategori": "ricebol",
       "harga": 18000,
       "foto": "https://gangalink.vercel.app/i/a4emh0fq.jpg",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "nama": "RiceBOL Ayam Bakar",
+      "nama": "RiceBowl Ayam Bakar",
       "kategori": "ricebol",
       "harga": 20000,
       "foto": "https://gangalink.vercel.app/i/wzzqexe0.jpg",
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "nama": "RiceBOL Lele Crispy",
+      "nama": "RiceBowl Lele Crispy",
       "kategori": "ricebol",
       "harga": 15000,
       "foto": "https://gangalink.vercel.app/i/z210eory.jpg",
