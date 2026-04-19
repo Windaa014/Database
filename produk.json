@@ -7,7 +7,7 @@
       "harga": 18000,
       "foto": "https://gangalink.vercel.app/i/a4emh0fq.jpg",
       "deskripsi": "Nasi + Ayam geprek sambal bawang + lalapan",
-      "stock": false
+      "stock": true
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "harga": 20000,
       "foto": "https://gangalink.vercel.app/i/wzzqexe0.jpg",
       "deskripsi": "Nasi + Ayam bakar madu + sambal terasi",
-      "stock": false
+      "stock": true
     },
     {
       "id": 3,
@@ -32,16 +32,16 @@
       "nama": "Es Teh Manis",
       "kategori": "minuman",
       "harga": 5000,
-      "foto": "https://via.placeholder.com/300x200?text=Es+Teh+Manis",
+      "foto": "https://gangalink.vercel.app/i/4gi8liez.jpg",
       "deskripsi": "Teh manis dingin segar",
-      "stock": false
+      "stock": true
     },
     {
       "id": 5,
       "nama": "Es Jeruk Peras",
       "kategori": "minuman",
       "harga": 8000,
-      "foto": "https://via.placeholder.com/300x200?text=Es+Jeruk+Peras",
+      "foto": "https://gangalink.vercel.app/i/pt7iffw6",
       "deskripsi": "Jeruk peras asli tanpa pengawet",
       "stock": true
     },
@@ -50,7 +50,7 @@
       "nama": "Es Kopi Susu",
       "kategori": "minuman",
       "harga": 10000,
-      "foto": "https://via.placeholder.com/300x200?text=Es+Kopi+Susu",
+      "foto": "https://gangalink.vercel.app/i/dnaaomcr.jpg",
       "deskripsi": "Kopi robusta + susu segar",
       "stock": true
     }
