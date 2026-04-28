@@ -1,57 +1,77 @@
 {
+  "namaToko": "KHOFU BOWL",
+  "tagline": "Makan Enak, Gak Ribet!",
   "produk": [
     {
       "id": 1,
-      "nama": "RiceBowl Ayam Geprek",
-      "kategori": "ricebol",
-      "harga": 18000,
-      "foto": "https://gangalink.vercel.app/i/a4emh0fq.jpg",
-      "deskripsi": "Nasi + Ayam geprek sambal bawang + lalapan",
+      "nama": "Ayam Crispy Banjir Saus",
+      "kategori": "best_seller",
+      "harga": 14000,
+      "foto": "https://via.placeholder.com/300x200?text=Ayam+Crispy+Banjir+Saus",
+      "deskripsi": "Ayam crispy dengan saus melimpah",
       "stock": true
     },
     {
       "id": 2,
-      "nama": "RiceBowl Ayam Bakar",
-      "kategori": "ricebol",
-      "harga": 20000,
-      "foto": "https://gangalink.vercel.app/i/wzzqexe0.jpg",
-      "deskripsi": "Nasi + Ayam bakar madu + sambal terasi",
+      "nama": "Ayam Teriyaki Juicy",
+      "kategori": "best_seller",
+      "harga": 14000,
+      "foto": "https://via.placeholder.com/300x200?text=Ayam+Teriyaki+Juicy",
+      "deskripsi": "Ayam teriyaki juicy dengan saus manis",
       "stock": true
     },
     {
       "id": 3,
-      "nama": "RiceBowl Lele Crispy",
-      "kategori": "ricebol",
-      "harga": 15000,
-      "foto": "https://gangalink.vercel.app/i/z210eory.jpg",
-      "deskripsi": "Nasi + Lele goreng crispy + sambal matah",
+      "nama": "Ayam Sambal Matah Segar",
+      "kategori": "best_seller",
+      "harga": 14000,
+      "foto": "https://via.placeholder.com/300x200?text=Ayam+Sambal+Matah",
+      "deskripsi": "Ayam dengan sambal matah segar",
       "stock": true
     },
     {
       "id": 4,
-      "nama": "Es Teh Manis",
-      "kategori": "minuman",
-      "harga": 5000,
-      "foto": "https://gangalink.vercel.app/i/4gi8liez.jpg",
-      "deskripsi": "Teh manis dingin segar",
+      "nama": "Geprek Mozza Meledak",
+      "kategori": "viral_hot",
+      "harga": 17000,
+      "foto": "https://via.placeholder.com/300x200?text=Geprek+Mozza+Meledak",
+      "deskripsi": "Ayam geprek dengan mozzarella meleleh",
       "stock": true
     },
     {
       "id": 5,
-      "nama": "Es Jeruk Peras",
-      "kategori": "minuman",
-      "harga": 8000,
-      "foto": "https://gangalink.vercel.app/i/pt7iffw6",
-      "deskripsi": "Jeruk peras asli tanpa pengawet",
+      "nama": "Ayam Keju Lumer Parah",
+      "kategori": "viral_hot",
+      "harga": 16000,
+      "foto": "https://via.placeholder.com/300x200?text=Ayam+Keju+Lumer",
+      "deskripsi": "Ayam dengan keju lumer extra",
       "stock": true
     },
     {
       "id": 6,
-      "nama": "Es Kopi Susu",
-      "kategori": "minuman",
-      "harga": 10000,
-      "foto": "https://gangalink.vercel.app/i/dnaaomcr.jpg",
-      "deskripsi": "Kopi robusta + susu segar",
+      "nama": "Blackpepper Lumer Mantap",
+      "kategori": "viral_hot",
+      "harga": 17000,
+      "foto": "https://via.placeholder.com/300x200?text=Blackpepper+Lumer",
+      "deskripsi": "Blackpepper sauce dengan keju lumer",
+      "stock": true
+    },
+    {
+      "id": 7,
+      "nama": "Beef Bulgogi Lumer",
+      "kategori": "premium_beef",
+      "harga": 18000,
+      "foto": "https://via.placeholder.com/300x200?text=Beef+Bulgogi+Lumer",
+      "deskripsi": "Beef bulgogi dengan keju lumer",
+      "stock": true
+    },
+    {
+      "id": 8,
+      "nama": "Beef Blackpepper",
+      "kategori": "premium_beef",
+      "harga": 18000,
+      "foto": "https://via.placeholder.com/300x200?text=Beef+Blackpepper",
+      "deskripsi": "Beef blackpepper saus lada hitam",
       "stock": true
     }
   ]
