@@ -7,7 +7,7 @@
       "nama": "Ayam Crispy Banjir Saus",
       "kategori": "best_seller",
       "harga": 14000,
-      "foto": "https://via.placeholder.com/300x200?text=Ayam+Crispy+Banjir+Saus",
+      "foto": "https://gangalink.vercel.app/i/7u3k93qz.jpg",
       "deskripsi": "Ayam crispy dengan saus melimpah",
       "stock": true
     },
@@ -16,7 +16,7 @@
       "nama": "Ayam Teriyaki Juicy",
       "kategori": "best_seller",
       "harga": 14000,
-      "foto": "https://via.placeholder.com/300x200?text=Ayam+Teriyaki+Juicy",
+      "foto": "https://gangalink.vercel.app/i/0bao41vb.jpg",
       "deskripsi": "Ayam teriyaki juicy dengan saus manis",
       "stock": true
     },
@@ -25,7 +25,7 @@
       "nama": "Ayam Sambal Matah Segar",
       "kategori": "best_seller",
       "harga": 14000,
-      "foto": "https://via.placeholder.com/300x200?text=Ayam+Sambal+Matah",
+      "foto": " https://gangalink.vercel.app/i/4yboe9pj.jpg",
       "deskripsi": "Ayam dengan sambal matah segar",
       "stock": true
     },
@@ -34,7 +34,7 @@
       "nama": "Geprek Mozza Meledak",
       "kategori": "viral_hot",
       "harga": 17000,
-      "foto": "https://via.placeholder.com/300x200?text=Geprek+Mozza+Meledak",
+      "foto": "https://gangalink.vercel.app/i/pzashb78.jpg",
       "deskripsi": "Ayam geprek dengan mozzarella meleleh",
       "stock": true
     },
@@ -43,7 +43,7 @@
       "nama": "Ayam Keju Lumer Parah",
       "kategori": "viral_hot",
       "harga": 16000,
-      "foto": "https://via.placeholder.com/300x200?text=Ayam+Keju+Lumer",
+      "foto": "https://gangalink.vercel.app/i/pzashb78.jpg",
       "deskripsi": "Ayam dengan keju lumer extra",
       "stock": true
     },
